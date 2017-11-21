@@ -4,3 +4,6 @@ For the people that need a copy of the legacy PWM (v1.7.1) from my 2014 blog pos
 
 # Blog
 [Installing pwm (Open Source Password Self Service for LDAP)](http://www.serveradventures.com/the-adventures/installing-pwm-open-source-password-self-service-for-ldap)
+
+# Releases
+https://github.com/milesgratz/pwm-legacy/releases/tag/v1.7.1
